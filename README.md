@@ -6,4 +6,4 @@ Brocklayers.py is a post prosessing script meant use in slicer. It based heavily
 
 Script tries to optimize packing density of layer lines by modulating layer heights and widths. It is possible that this could do some really wonky things and is totally untested so use at your own risk!
 
-Use add lines "<you python path>" "<path to brocklayer.py>" -layerHeight 0.2 -extrusionMultiplier 1;
+Use add lines "your python path" "path to brocklayer.py" -layerHeight 0.2 -extrusionMultiplier 1;
